@@ -1,0 +1,6 @@
+[submodule "project-b"]
+	path = project-b
+	url = https://github.com/nkkpala/project-b.git
+[submodule "frondend"]
+	path = frondend
+	url = https://github.com/nkkpala/project-b.git
